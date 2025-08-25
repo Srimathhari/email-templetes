@@ -1,0 +1,12 @@
+
+<!-- Image banner (email-safe) -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td align="center" style="padding:0 20px;">
+      <img src="https://github.com/Srimathhari/email-templetes/blob/71be139d65d6d3f857ae4006a16a3f79bb67c242/It%20sector.png"
+           alt="IT Sector banner"
+           width="600"
+           style="display:block; max-width:600px; width:100%; height:auto; border:0; outline:none; text-decoration:none;">
+    </td>
+  </tr>
+</table>
